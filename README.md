@@ -6,5 +6,5 @@ THis will serve as the central location for all things related to COVID-19 inclu
 
 This is the collaborative space where we can share data, notebooks, thoughts, etc regarding the COVID-19 virus
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/images/hbap.jpg)
+Format: ![Alt Text](https://analytics.hbs.edu/)
