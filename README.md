@@ -9,4 +9,7 @@ This is the collaborative space where we can share data, notebooks, thoughts, et
 
 Data is organized by source and will be updated daily. 
 
+JohnsHopkins- Source: https://github.com/CSSEGISandData/COVID-19
+Nextstrain- Source: https://github.com/nextstrain/ncov
+
 ![HBAP Logo](/images/hbap.jpg)
