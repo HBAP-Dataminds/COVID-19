@@ -11,5 +11,6 @@ Data is organized by source and will be updated daily.
 
 - Johns Hopkins- Source: https://github.com/CSSEGISandData/COVID-19
 - Nextstrain- Source: https://github.com/nextstrain/ncov
+- CDC- Source: https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html
 
 ![HBAP Logo](/images/hbap.jpg)
